@@ -1,0 +1,4 @@
+com/example/department/controller/DepartmentController.class
+com/example/department/model/User.class
+com/example/department/client/UserClient.class
+com/example/department/DepartmentServiceApplication.class
