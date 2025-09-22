@@ -11,7 +11,7 @@ It consists of three services:
 
 ## 🔑 Features
 - Service discovery with **Eureka**
-- Declarative REST client with **OpenFeign**
+- Declarative REST client with **OpenFeign** 
 - Multi-module **Maven** project
 - Loose coupling (no hardcoded URLs)
 
