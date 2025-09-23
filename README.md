@@ -20,7 +20,7 @@ It consists of three services:
 ## 🛠 Tech Stack
 - Java 21  
 - Spring Boot 3.3.x  
-- Spring Cloud 2023.0.x  
+- Spring Cloud 2023.0.x   
 - Maven  
 
 ---
