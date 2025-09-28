@@ -5,7 +5,7 @@ It consists of three services:
 
 - **Eureka Server** → Service registry for discovery  
 - **User Service** → Provides user information  
-- **Department Service** → Uses **OpenFeign** to call User Service via Eureka  
+- **Department Service** → Uses **OpenFeign** to call User Service via Eureka   
 
 ---
 
